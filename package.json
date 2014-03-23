@@ -1,0 +1,20 @@
+{
+  "name": "NodeJS-with-google-maps",
+  "version": "0.0.1",
+  "description": "Simple exemplo com API google maps",
+  "dependencies": {
+    "express": "*"
+  },
+  "engine": "node 0.9.x",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JohnyNogueira/Nodejs-with-google-maps"
+  },
+  "author": "",
+  "license": "BSD",  
+}
